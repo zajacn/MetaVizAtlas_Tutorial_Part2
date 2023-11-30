@@ -1,0 +1,34 @@
+user_genome	Domain	phylum	class	order	family	genus	species
+MAG01	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola vulgatus
+MAG02	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerosacchariphilus	
+MAG03	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	NM07-P-09	NM07-P-09 sp004793925
+MAG04	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Paramuribaculum	Paramuribaculum sp900752995
+MAG05	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	Acetatifactor sp011959105
+MAG06	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus reuteri
+MAG07	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp002493165
+MAG08	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus johnsonii
+MAG09	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinalis
+MAG10	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-485	
+MAG11	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	14-2	
+MAG12	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA3700		
+MAG13	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Kineothrix	Kineothrix sp000403275
+MAG14	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	RC9 sp002298075
+MAG15	Bacteria	Proteobacteria	Alphaproteobacteria	Rs-D84	Rs-D84	Rs-D84	
+MAG16	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	1XD8-76	
+MAG17	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	Faecalibaculum rodentium
+MAG18	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	UBA7173	UBA7173 sp001915385
+MAG19	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus murinus
+MAG20	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Eubacterium_R	
+MAG21	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	1XD42-69	1XD42-69 sp011959925
+MAG22	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	
+MAG23	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Kineothrix	
+MAG24	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	
+MAG25	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	
+MAG26	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-485	
+MAG27	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA3282	
+MAG28	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-873	CAG-873 sp009775135
+MAG29	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+MAG30	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Paramuribaculum	
+MAG31	Bacteria	Deferribacterota	Deferribacteres	Deferribacterales	Mucispirillaceae	Mucispirillum	Mucispirillum schaedleri
+MAG32	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	UBA7173	UBA7173 sp001689485
+MAG33	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	
